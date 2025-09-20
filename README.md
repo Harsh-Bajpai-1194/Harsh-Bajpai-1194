@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jitendra-singhs-projects-9128392d.vercel.app/](https://portfolio-jitendra-singhs-projects-9128392d.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Harsh-Bajpai-1194?tab=repositories](https://github.com/Harsh-Bajpai-1194?tab=repositories)
 
 - 💬 Ask me about **React, Machine Learning**
 
