@@ -155,5 +155,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&" alt="Harsh-Bajpai-1194" />
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=dark)" alt="Harsh-Bajpai-1194" />
 </p>
