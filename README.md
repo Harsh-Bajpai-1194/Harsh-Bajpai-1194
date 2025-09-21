@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A passionate AI Engineer & Web Developer from India</h3>
 
-//Profile views count
+<!--Profile views count-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-Bajpai-1194" /> 
 </p>
