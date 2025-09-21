@@ -154,7 +154,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Bajpai-1194&show_icons=true&locale=en" alt="Harsh-Bajpai-1194" />
 </p>
 
-<p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+<a id="streak-link" href="https://git.io/streak-stats">
+    <img id="streak-img" alt="GitHub Streak" />
+</a>
+
+<script>
+const badges = [
+  "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D",
+  "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D"
+];
+
+const img = document.getElementById("streak-img");
+img.src = badges[Math.floor(Math.random() * badges.length)];
+</script>
+
