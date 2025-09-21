@@ -159,12 +159,18 @@
 </a>
 
 <script>
-const badges = [
-  "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D",
-  "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D"
-];
+    // An array holding the URLs for your two different themes
+    const badgeThemes = [
+      "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D",
+      "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D"
+    ];
 
-const img = document.getElementById("streak-img");
-img.src = badges[Math.floor(Math.random() * badges.length)];
+    // Get the image element by its ID
+    const streakImage = document.getElementById("streak-img");
+
+    // Generate a random number (0 or 1) to use as an index
+    const randomIndex = Math.floor(Math.random() * badgeThemes.length);
+
+    // Set the image's source to the randomly selected theme URL
+    streakImage.src = badgeThemes[randomIndex];
 </script>
-
