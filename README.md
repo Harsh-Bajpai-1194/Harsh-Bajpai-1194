@@ -51,9 +51,6 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
     </a>
-    <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" height="60"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
     </a>
@@ -69,14 +66,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
     </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
-    </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="60" height="60"/>
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
@@ -87,12 +78,18 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60"/>
+    </a>
 </div>
 <br/>
 <hr/>    
 </div>
 
-![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/blob/output/github-contribution-grid-snake.svg)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&show_icons=true&locale=en&layout=compact" alt="Harsh-Bajpai-1194" />
 </p>
@@ -104,3 +101,6 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&" alt="Harsh-Bajpai-1194" />
 </p>
+
+
+[def]: ttps://mongoD
