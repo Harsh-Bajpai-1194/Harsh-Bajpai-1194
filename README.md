@@ -154,23 +154,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Bajpai-1194&show_icons=true&locale=en" alt="Harsh-Bajpai-1194" />
 </p>
 
-<a id="streak-link" href="https://git.io/streak-stats">
-    <img id="streak-img" alt="GitHub Streak" />
-</a>
+### 🔥 GitHub Streaks  
 
-<script>
-    // An array holding the URLs for your two different themes
-    const badgeThemes = [
-      "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D",
-      "https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D"
-    ];
+[🌱 Chartreuse Dark](https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)  
+[⚡ Cyber Streak Glow](https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D)
 
-    // Get the image element by its ID
-    const streakImage = document.getElementById("streak-img");
-
-    // Generate a random number (0 or 1) to use as an index
-    const randomIndex = Math.floor(Math.random() * badgeThemes.length);
-
-    // Set the image's source to the randomly selected theme URL
-    streakImage.src = badgeThemes[randomIndex];
-</script>
