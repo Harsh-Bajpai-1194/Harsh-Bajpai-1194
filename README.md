@@ -155,5 +155,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=dark" alt="Harsh-Bajpai-1194" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
