@@ -89,7 +89,7 @@
 <hr/>    
 </div>
 
-![snake gif](https://github.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&show_icons=true&locale=en&layout=compact" alt="Harsh-Bajpai-1194" />
 </p>
