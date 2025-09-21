@@ -28,23 +28,24 @@
 <p align="left">
 </p>
 
+<!--Social Accounts to Connect-->
 <div align="center">
-  <a href="https://www.instagram.com/mr_saayaann?igsh=MTRlN2V2dnNxaTM3ag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  <a href="https://www.linkedin.com/in/harsh-bajpai1194" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshbajpai1194@gmail.com&su=Subject&body=MessageBody" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/sayaan-ghosh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  <a href="https://wa.me/+918081605775" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.facebook.com/people/Sayan-Ghosh/100033685911864/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
+  <a href="https://x.com/Harshbajpai1194" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
   </a>
 </div>
-
- <hr/>
+<hr/>
  
+ <!--Languages and Skills-->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
@@ -101,6 +102,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&" alt="Harsh-Bajpai-1194" />
 </p>
-
-
-[def]: ttps://mongoD
