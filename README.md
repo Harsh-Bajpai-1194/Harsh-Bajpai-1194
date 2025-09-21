@@ -9,12 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-Bajpai-1194" /> 
 </p>
 
-###
-
 <!--Profile Highlights-->
 <img src="https://trophygh.kolioaris.xyz/?username=Harsh-Bajpai-1194&theme=radical&&no-frame=true&column=10" />
-
-###
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
@@ -32,64 +28,71 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/mr_saayaann?igsh=MTRlN2V2dnNxaTM3ag==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayaan-ghosh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/people/Sayan-Ghosh/100033685911864/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
+    </a>
+    <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" height="60"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
+    </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60"/>
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
+    </a>
+    <a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="60" height="60"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60"/>
+    </a>
+</div>
+<br/>
+<hr/>    
+</div>
+
+![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&show_icons=true&locale=en&layout=compact" alt="Harsh-Bajpai-1194" />
 </p>
