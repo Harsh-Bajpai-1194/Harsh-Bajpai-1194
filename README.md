@@ -9,11 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-Bajpai-1194" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Bajpai-1194" alt="Harsh-Bajpai-1194" />
-  </a> 
-</p>
+###
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <img align="right" height="150" src="https://gifsec.com/wp-content/uploads/2022/10/rickroll-gif-1.gif"  />
+</div>
+
+###
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
