@@ -10,7 +10,7 @@
 </p>
 
 <!--Profile Highlights-->
-<img src="https://trophygh.kolioaris.xyz/?username=Harsh-Bajpai-1194&theme=radical&&no-frame=true&column=10" alt="Harsh-Bajpai-1194" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia" alt="Harsh-Bajpai-1194" />
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
