@@ -147,7 +147,7 @@
 
 ![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&show_icons=true&locale=en&layout=compact" alt="Harsh-Bajpai-1194" />
+  <img align="left" src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Harsh-Bajpai-1194" />
 </p>
 
 <p>&nbsp;
