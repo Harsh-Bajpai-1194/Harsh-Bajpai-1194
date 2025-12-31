@@ -144,6 +144,7 @@
 <br/>
 <hr/>    
 </div>
+<img align="centre" src="https://github-readme-activity-graph.vercel.app/graph/?username=Harsh-Bajpai-1194&bg_color=141321&color=a9fef8&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=fe438e" alt="Harsh-Bajpai-1194"/>
 
 ![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
 <p>
