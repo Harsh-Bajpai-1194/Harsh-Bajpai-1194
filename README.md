@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jrohitofficial">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+  </a>
+</p>
+
 <!--Profile views count-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20Views&color=green&style=for-the-badge" alt="Harsh-Bajpai-1194" /> 
@@ -165,4 +171,8 @@
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" alt="Thanks for Visiting..." width="100%" />
 </p>
