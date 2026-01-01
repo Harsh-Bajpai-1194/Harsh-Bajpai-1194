@@ -3,20 +3,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Bajpai!;" />
 </h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<p align="center">
+  <a href="https://github.com/jrohitofficial">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=40&lines=Namaste+🙏;Computer+Science+Enthusiast;Programmer+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--Profile views count-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20Views&color=green&style=for-the-badge" alt="Harsh-Bajpai-1194" /> 
 </p>
 
-<!--Profile Highlights-->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia" alt="Harsh-Bajpai-1194" />
+---
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
+## 🏆 My GitHub Trophy
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia" alt="Harsh-Bajpai-1194" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh-Bajpai-1194?tab=repositories](https://github.com/Harsh-Bajpai-1194?tab=repositories)
 
