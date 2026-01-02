@@ -170,7 +170,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&locale=en&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
 </p>
 
 <p align="center">
