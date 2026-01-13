@@ -159,7 +159,7 @@
 </div>
 <img align="centre" src="https://github-readme-activity-graph.vercel.app/graph/?username=Harsh-Bajpai-1194&bg_color=141321&color=a9fef8&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=fe438e" alt="Harsh-Bajpai-1194"/>
 
-![snake gif](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/blob/output/github-snake.svg)
 <p>
   <img align="left" src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Harsh-Bajpai-1194" />
 </p>
