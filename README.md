@@ -169,9 +169,7 @@
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-streak-xi.vercel.app/demo/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-streak-xi.vercel.app?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" alt="Thanks for Visiting..." width="100%" />
