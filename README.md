@@ -29,8 +29,8 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia" alt="Harsh-Bajpai-1194" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-Bajpai-1194&theme=darkhub&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia" alt="Harsh-Bajpai-1194" />  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-Bajpai-1194&theme=darkhub&column=3)](https://github.com/ryo-ma/github-profile-trophy)  
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh-Bajpai-1194?tab=repositories](https://github.com/Harsh-Bajpai-1194?tab=repositories)
 
