@@ -174,6 +174,8 @@
 </p>
 
 <!-- GitHub Streak -->
+<img src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 <p align="center">
