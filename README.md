@@ -60,7 +60,7 @@
 <hr/>
  
  <!--Languages and Skills-->
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="right">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
