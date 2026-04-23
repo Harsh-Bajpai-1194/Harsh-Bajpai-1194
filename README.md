@@ -61,11 +61,19 @@
  
  <!--Languages and Skills-->
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,github,git,js,postman,mysql,flask,mongodb,django,c,cpp,discord,gmail,nodejs,bootstrap,discordjs,electron,ai,java,linkedin,linux,opencv,powershell,pytorch,svg,tailwind,vscode,windows&perline=10" height="150" />
-  </a>
-</p>
+
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,github,git,js,postman,mysql,flask,mongodb&perline=10" height="50" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,c,cpp,discord,gmail,nodejs,bootstrap,discordjs,electron,ai&perline=10" height="50" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,linkedin,linux,opencv,powershell,pytorch,svg,tailwind,vscode,windows&perline=10" height="50" /></a>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
+<br/>
 </div>
 <br/>
 <hr/>    
