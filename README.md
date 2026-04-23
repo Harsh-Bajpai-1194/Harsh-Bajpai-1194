@@ -61,99 +61,39 @@
  
  <!--Languages and Skills-->
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="60"/>
-</a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60"/>
-</a>
-<a href="https://discord.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="60" height="60"/>
-</a>
-<a href="https://mail.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="60" height="60"/>
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60"/>
-</a>
-<a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" width="60" height="60"/>
-</a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="60" height="60"/>
-</a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="60" height="60"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
-</a>
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60"/>
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="60" height="60"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="60" height="60"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="60" height="60"/>
-</a>
-<a href="https://www.w3.org/Graphics/SVG/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=svg" alt="SVG" width="60" height="60"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="60" height="60"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
-</a>
-<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60" height="60"/>
-</a>
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/></a>
+<a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/></a>
+<a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discordjs" alt="discordjs" width="40" height="40"/></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" alt="ai" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.w3.org/Graphics/SVG/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svg" alt="svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/></a>
+</p>
 </div>
 <br/>
 <hr/>    
