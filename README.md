@@ -65,9 +65,9 @@
 <table align="left">
   <tr>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,github,git,js,postman,mysql,flask,mongodb&perline=10" height="50" /></a><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,c,cpp,discord,gmail,nodejs,bootstrap,discordjs,electron,ai&perline=10" height="50" /></a><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,linkedin,linux,opencv,powershell,pytorch,svg,tailwind,vscode,windows&perline=10" height="50" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,github,git,js,postman,mysql,flask,mongodb&perline=10" height="75" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,c,cpp,discord,gmail,nodejs,bootstrap,discordjs,electron,ai&perline=10" height="75" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,linkedin,linux,opencv,powershell,pytorch,svg,tailwind,vscode,windows&perline=10" height="75" /></a>
     </td>
   </tr>
 </table>
