@@ -1,5 +1,3 @@
-<!--Hi there and name message-->
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Bajpai!;" />
 </h1>
@@ -22,7 +20,6 @@
   </a>
 </p>
 
-<!--Profile views count-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20Views&color=green&style=for-the-badge" alt="Harsh-Bajpai-1194" /> 
 </p>
@@ -42,7 +39,6 @@
 <p align="left">
 </p>
 
-<!--Social Accounts to Connect-->
 <div align="center">
   <a href="https://www.linkedin.com/in/harsh-bajpai1194" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
@@ -58,8 +54,7 @@
   </a>
 </div>
 <hr/>
- 
- <!--Languages and Skills-->
+
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <p align="left">
@@ -84,7 +79,6 @@
   <img align="center" src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" alt="Harsh-Bajpai-1194" />
 </p>
 
-<!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200&v=1)](https://git.io/streak-stats)
 
 <p align="center">
