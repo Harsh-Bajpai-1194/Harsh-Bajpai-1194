@@ -27,7 +27,7 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=Harsh-Bajpai-1194&theme=algolia&column=-1" alt="Harsh-Bajpai-1194" />  
+<img src="https://gh-trophy.cdnsoft.net/?username=Harsh-Bajpai-1194&theme=algolia&column=-1" alt="GitHub_Trophies" />  
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh-Bajpai-1194?tab=repositories](https://github.com/Harsh-Bajpai-1194?tab=repositories)
 
