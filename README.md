@@ -72,11 +72,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/output/github-snake.svg">
 </picture>
 <p>
-  <img align="left" src="https://github-readme-stats-sigma-red-14.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Harsh-Bajpai-1194" />
+  <img align="left" src="https://github-readme-stats-olive-theta-53.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Harsh-Bajpai-1194" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats-sigma-red-14.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" alt="Harsh-Bajpai-1194" />
+  <img align="center" src="https://github-readme-stats-olive-theta-53.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" alt="Harsh-Bajpai-1194" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Bajpai-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200&v=1)](https://git.io/streak-stats)
