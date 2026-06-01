@@ -74,7 +74,6 @@
 <p>
   <img align="left" src="https://github-readme-stats-olive-theta-53.vercel.app/api/top-langs?username=Harsh-Bajpai-1194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Most_Used_Languages" />
 </p>
-
 <p>&nbsp;
   <img align="right" src="https://github-readme-stats-olive-theta-53.vercel.app/api?username=Harsh-Bajpai-1194&hide_title=false&hide_rank=false&card_width=500&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" alt="GitHub_Stats" />
 </p>
