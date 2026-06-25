@@ -7,23 +7,19 @@
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=40&lines=Namaste+🙏;Computer+Science+Enthusiast;Programmer+%7C+Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/jrohitofficial">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
   </a>
 </p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Bajpai-1194&label=Profile%20Views&color=green&style=for-the-badge" alt="Harsh-Bajpai-1194" /> 
 </p>
-
 ---
 
 ## 🏆 My GitHub Trophy
