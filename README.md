@@ -23,7 +23,7 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<img src="https://gh-trophy.cdnsoft.net/?username=Harsh-Bajpai-1194&theme=algolia&column=-1" alt="GitHub_Trophies" />  
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Harsh-Bajpai-1194&theme=algolia&column=-1" alt="GitHub_Trophies" />  
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh-Bajpai-1194?tab=repositories](https://github.com/Harsh-Bajpai-1194?tab=repositories)
 
